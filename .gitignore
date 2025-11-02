@@ -1,0 +1,33 @@
+# Arduino/ESP32
+*.bin
+*.elf
+*.hex
+*.map
+*.lst
+*.lss
+*.sym
+*.o
+*.a
+*.d
+.DS_Store
+build/
+*.pyc
+
+# STM32
+Debug/
+Release/
+*.o
+*.d
+*.su
+*.list
+*.elf
+*.bin
+*.hex
+*.map
+
+# IDE/Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
